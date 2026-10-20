@@ -2,6 +2,7 @@
 name: Bug
 about: Report an application malfunction
 labels: bug
+projects: ["januszex-ai/1"]
 ---
 
 ## Bug description
