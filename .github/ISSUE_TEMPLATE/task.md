@@ -1,7 +1,7 @@
 ---
 name: Technical task
 about: Technical work not directly visible to the user
-labels: task
+labels: ["task"]
 projects: ["januszex-ai/1"]
 ---
 
